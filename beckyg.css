@@ -1,0 +1,22 @@
+h1{
+    text-align:center;
+}
+#l-side{
+ display:inline-block;  
+ width:50%;
+ height:50%;
+ float: left;
+}
+#r-side{
+ display:inline-block;
+ width:50%;
+ height:50%;
+}
+
+#r-side{
+    
+}
+
+body {
+    font-family: "Arial";
+}

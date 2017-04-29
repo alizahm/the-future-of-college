@@ -1,0 +1,83 @@
+body {
+    background-image: url("http://static5.depositphotos.com/1003995/445/i/950/depositphotos_4455167-stock-photo-success-and-teamwork-word-stamped.jpg");
+    background: url("http://static5.depositphotos.com/1003995/445/i/950/depositphotos_4455167-stock-photo-success-and-teamwork-word-stamped.jpg") no-repeat fixed center; 
+    background-size: 100% 100%;
+     overflow-x: hidden;
+      overflow-y: hidden;
+}
+
+#Page1Title {
+    text-align: center;
+    margin-left: 246px;
+}
+
+#Page1List {
+    text-align: left;
+    margin-left: 45%;
+    height: 615px;
+}
+
+#Page1Buttons {
+    margin-left: 200px;
+    text-align: center;
+}
+
+.page1Btn {
+    height:100px;
+    width: 250px;
+}
+
+#IWantToHelp {
+    margin-left: 6%;
+    background-color: #330080;
+    color: white;
+}
+#INeedHelp {
+    margin-left: 10%;
+    background-color: #330080;
+    color: white;
+}
+
+h1 {
+    color: #330080;
+}
+
+ul {
+    color: #330080;
+    font-size: 25px;
+}
+
+li {
+    width:100%;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+#Page1List li:nth-child(1){
+    margin-left: -237px;
+}
+#Page1List li:nth-child(2){
+    margin-left: -97px;
+}
+#Page1List li:nth-child(3){
+    margin-left: 131px;
+}
+#Page1List li:nth-child(4){
+    margin-left: 429px;
+}
+
+#Page1Description {
+ width: 100%;
+text-align: center;
+height: 2150px;
+margin-left: -177px;
+padding-top: 15px;
+font-size: 20px;
+line-height: 175%;
+color: #330080;
+}
+
+body {
+    font-family: "Arial";
+}
+
